@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+.venv_old/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Dataset
+data/*.csv
+
+# VS Code and macOS
+.vscode/
+.DS_Store
